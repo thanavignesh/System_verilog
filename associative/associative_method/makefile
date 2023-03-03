@@ -8,6 +8,4 @@ simulate:
 all:
 	make clear;make compile;make simulate
 
-clear:
-	clear
 
